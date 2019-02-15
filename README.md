@@ -18,5 +18,5 @@ This path length, averaged over a forest of such random trees, is a measure of n
 Random partitioning produces noticeably shorter paths for anomalies. Hence, when a forest of random trees collectively produce shorter path lengths for particular samples, they are highly likely to be anomalies.
 
 ### Run
-To run this python code on your machine, run 'jupyter notebook credit-card-fraud.ipynb' in terminal or command prompt.
+To run this python code on your machine, run `jupyter notebook credit-card-fraud.ipynb` in terminal or command prompt.
 This will open the project in Jupyter notebook
